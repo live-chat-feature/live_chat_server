@@ -1,0 +1,14 @@
+2025-09-16 14:15:43 pid:83341 Workerman[chat-server.php] start in DEBUG mode
+2025-09-16 14:15:53 pid:83341 Workerman[chat-server.php] received signal SIGINT
+2025-09-16 14:15:53 pid:83341 Workerman[chat-server.php] stopping
+2025-09-16 14:15:53 pid:83341 Workerman[chat-server.php] has been stopped
+2025-09-16 16:40:00 pid:19455 Workerman[chat-server.php] start in DEBUG mode
+2025-09-16 18:29:15 pid:19455 Workerman[chat-server.php] received signal SIGHUP
+2025-09-16 18:29:15 pid:19455 Workerman[chat-server.php] stopping
+2025-09-16 18:29:15 pid:19455 Workerman[chat-server.php] received signal SIGHUP
+2025-09-16 18:29:15 pid:19455 Workerman[chat-server.php] stopping
+2025-09-16 18:29:15 pid:19455 Workerman[chat-server.php] has been stopped
+2025-09-17 11:39:01 pid:7483 Workerman[chat-server.php] start in DEBUG mode
+2025-09-17 12:11:19 pid:7483 Workerman[chat-server.php] received signal SIGINT
+2025-09-17 12:11:19 pid:7483 Workerman[chat-server.php] stopping
+2025-09-17 12:11:19 pid:7483 Workerman[chat-server.php] has been stopped
